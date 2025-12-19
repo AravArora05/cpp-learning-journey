@@ -1,6 +1,6 @@
 # C++ Learning Journey
 
-I’m currently learning C++ by completing the **Beginning C++ Programming – From Beginner to Beyond** course on Udemy. This course teaches modern C++ basics and builds up to more advanced concepts so I can write real C++ programs and understand how the language works from the ground up. :contentReference[oaicite:0]{index=0}
+I’m currently learning C++ by completing the **Beginning C++ Programming – From Beginner to Beyond** course on Udemy. This course teaches modern C++ basics and builds up to more advanced concepts so I can write real C++ programs and understand how the language works from the ground up. 
 
 ---
 
