@@ -9,6 +9,10 @@ private:
     int age;
 public:
 
+void multiply_with_pointer(int* ptr, int multiplier) {
+    *ptr *= multiplier;
+}
+
 string get_name() {
     return name;
 }
