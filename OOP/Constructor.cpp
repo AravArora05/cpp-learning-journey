@@ -14,6 +14,11 @@ public:
         age = 0;
     }
 
+Dog (string vals, int num) {
+    name=vals;
+    age=num;
+}
+
     string get_name() {return name; }
     void set_name(string n) {name = n; }
     int get_age() {return age; }
